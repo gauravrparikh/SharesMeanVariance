@@ -1,7 +1,7 @@
 
 ## Getting Started
 
-This project retrieves Stock prices using a YFinance API and does baisc mean variance analysis on stock prices. We implement an ensemble based bootstrap sampling to devise returns, using a betavariate distribution to bias sampling for more recent times. We then create a plot of Sharpe ratio's to allow comparison of all stocks. 
+This project retrieves Stock prices using a YFinance API and does basic mean variance analysis on stock prices. We implement an ensemble based bootstrap sampling to devise returns, using a betavariate distribution to bias sampling for more recent times. We then create a plot of Sharpe ratio's to allow comparison of all stocks. 
 
 ## 
 The script includes the following features
