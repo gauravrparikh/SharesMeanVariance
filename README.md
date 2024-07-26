@@ -10,9 +10,14 @@ The script includes the following features
 - `Financial Analysis`: Provides functionality to retrieve competitors, financials and balance sheets for fundamental analysis.
 
 ##
-Version 2.0 updates (in process)
+Version 2.0 
 - Portfolio creator, a generic mean maximizing variance minimizing function that allocates fractional amounts to construct an efficienct portfolio
 - Provide implementation for different sampling techniques.
 - Provide confidence intervals for distribution of returns and confidence intervals for means on bootstrap sample.
 - Additional Fundamental Analysis including code to compare fundamental ratios - Price / Equity, EPS etc. to rank assets. 
 
+## TODO (expect update by September 24)
+Version 3.0
+- Scenario analysis using macroeconomic data pulled from the federal reserve, government, RBI to model for performance under different economic conditions.
+- Plotting of market drawdown risk and tail risk. 
+- Portfolio builder that picks uncorrelated assets efficiently to give best risk adjusted returns. 
